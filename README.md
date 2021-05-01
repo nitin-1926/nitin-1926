@@ -17,21 +17,21 @@
 <a href="https://github.com/nitin-1926">
   <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/helloCoders.gif?raw=true" alt="Hello Coders" width="700"/> <br>
   <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="600"/> 
-</a>  
-
-![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
-<!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
-<br>
+</a>
 
 </div>
 
-### 📕 Latest Blog Post
+## Yōkoso, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta :wave:</a>
 
-<!-- BLOG-POST-LIST:START -->
+![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%230D13EB&title_bg=%23F38E0B&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
+<br>
+
+### 📕 Latest Blog Post
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
-<!-- BLOG-POST-LIST:END -->
 <br/>
 
 <!-- <hr></hr>
