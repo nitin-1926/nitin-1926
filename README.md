@@ -31,7 +31,7 @@
   
 <a  href="https://github.com/nitin-1926"> 
   
-<img alt="nitin-1926's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitin-1926&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/nitin-1926" />
+<img alt="nitin-1926's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitin-1926&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" href="https://github.com/nitin-1926" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/nitin-1926" />
 
 </a>
