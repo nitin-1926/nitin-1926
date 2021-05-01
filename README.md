@@ -1,5 +1,5 @@
 
-**nitin-1926/nitin-1926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **nitin-1926/nitin-1926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:
 
@@ -19,6 +19,12 @@
   <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="600"/> 
 </a>  
 
+![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
+<!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
+<br>
+
+</div>
+
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
@@ -27,12 +33,6 @@
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
 <!-- BLOG-POST-LIST:END -->
 <br/>
-
-![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
-<!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
-<br>
-
-</div>
 
 <!-- <hr></hr>
 
