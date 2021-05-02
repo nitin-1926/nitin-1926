@@ -23,7 +23,7 @@
 
 ## Yōkoso :sparkling_heart:, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta </a> :wave:
 
-![Developing](https://img.shields.io/static/v1?style=for-the-badge&message=Developing&label=heart&color=E34F26&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
+![Developing](https://img.shields.io/static/v1?style=for-the-badge&message=Developing&label=[:hearts:]&color=E34F26&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
 
 <!-- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at MyCelium (Rocketium) :rocket: as a Software Developer. <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" /><br>
 - <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
