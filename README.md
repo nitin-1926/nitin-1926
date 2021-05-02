@@ -23,6 +23,8 @@
 
 ## Yōkoso :sparkling_heart:, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta </a> :wave:
 
+![Developing1](https://img.shields.io/static/v1?style=for-the-badge&message=Developing&label=&color=E34F26&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
+
 <!-- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at MyCelium (Rocketium) :rocket: as a Software Developer. <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" /><br>
 - <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
@@ -30,7 +32,7 @@
 - &nbsp;&nbsp;<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
 
 
-[:code:] Tech | Stack 🛠
+🔭 Tech | Stack 🛠
 ----------------------|---------------------
 Front End Development | Back End Development
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000) ![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![Ant](https://img.shields.io/static/v1?style=for-the-badge&logo=apache-ant&message=Ant&label=&color=A81C7D&labelColor=000000) | ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express.js&label=&color=339933&labelColor=000000)
