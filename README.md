@@ -19,6 +19,8 @@
   <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="600"/> 
 </a>
 
+</div>
+
 ## Yōkoso :sparkling_heart:, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta </a> :wave:
 
 <!-- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at MyCelium (Rocketium) :rocket: as a Software Developer. <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" /><br>
@@ -28,6 +30,11 @@
 - &nbsp;&nbsp;<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
 
 <div align="center" >
+
+### Github trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nitin-1926)  
+<br />
   
 <a  href="https://github.com/nitin-1926"> 
   
