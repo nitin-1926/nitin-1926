@@ -33,7 +33,7 @@
 
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
 <br />
   
 <a  href="https://github.com/nitin-1926"> 
