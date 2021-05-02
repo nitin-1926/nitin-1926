@@ -35,7 +35,7 @@
 🔭 Tech | Stack 🛠
 ----------------------|---------------------
 Front End Development | Back End Development
-![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![AntDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=Ant-Design&message=`Ant Design`&label=&color=A81C7D) | ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express.js&label=&color=339933)
+![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![AntDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=Ant-Design&message=AntDesign&label=&color=A81C7D) | ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express.js&label=&color=339933)
 Programming Languages | Version Control
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3776AB) | ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032) ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&logo=bitbucket&message=Git&label=&color=F05032)
 Database | Cloud
@@ -47,7 +47,7 @@ Operating System | Tools
 
 
 
-Version control | Database
+<!-- Version control | Database
 ------------------|--------
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000) |  
 
@@ -77,7 +77,7 @@ Version control | Database
 ![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
 <br/><br/>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark)
