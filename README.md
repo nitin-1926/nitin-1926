@@ -34,7 +34,6 @@
 
 Version control | Database
 ------------------|--------
-
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)![Ant](https://img.shields.io/static/v1?style=for-the-badge&logo=apache-ant&message=Ant&label=&color=A81C7D&labelColor=000000)![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000) | ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=2C2255&labelColor=000000)
 
