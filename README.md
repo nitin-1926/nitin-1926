@@ -35,7 +35,7 @@
 🔭 Tech | Stack 🛠
 ----------------------|---------------------
 Front End Development | Back End Development
-![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000) ![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&logo=Ant-Design&message=Ant%Design&label=&color=A81C7D&labelColor=000000) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&message=SASS&label=&color=CC6699&labelColor=000000) | ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&labelColor=000000) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express.js&label=&color=9E9E9E&labelColor=000000)
+![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000) ![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&logo=Ant-Design&message=Ant%20Design&label=&color=A81C7D&labelColor=000000) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&message=SASS&label=&color=CC6699&labelColor=000000) | ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&labelColor=000000) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express.js&label=&color=9E9E9E&labelColor=000000)
 Programming Languages | Version Control
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&message=C&label=&color=EB001B&labelColor=000000) ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&message=C%2B%2B&label=&color=7E75DF&labelColor=000000) ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=ffffff&message=Python&label=&color=44CC11&labelColor=000000) | ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000) ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&logo=bitbucket&message=Bitbucket&label=&color=0052CC&labelColor=000000)
 Database | Cloud
@@ -79,30 +79,25 @@ Operating System | Tools
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-### Github trophies
-
-<br />
-
-<div align="center" >
+## Github trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
-  
-<a  href="https://github.com/nitin-1926"> 
+## Some github stats
+
+<a href="https://github.com/nitin-1926">
   
 <img alt="nitin-1926's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitin-1926&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=calm" href="https://github.com/nitin-1926" />
-<!-- <img alt="nitin-1926's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitin-1926&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" /> -->
+
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" />
 
 </a>
 
 ![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
-[![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
+<!-- [![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%233FEB0D&title_bg=%239A0BF3&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
 <br>
-
-</div>
 
 <hr></hr>
 
