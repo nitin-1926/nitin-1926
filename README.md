@@ -80,12 +80,13 @@ Operating System | Tools
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Github trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
+
 <br />
 
 <div align="center" >
 
+![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
   
 <a  href="https://github.com/nitin-1926"> 
   
@@ -96,7 +97,7 @@ Operating System | Tools
 </a>
 
 ![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
-[![GitHub nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
+[![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%233FEB0D&title_bg=%239A0BF3&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
 <br>
