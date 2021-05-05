@@ -57,17 +57,18 @@ Operating System | Tools
 
 ## Github trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
 ## Some github stats
 
 <a href="https://github.com/nitin-1926">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
   
 <img alt="nitin-1926's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitin-1926&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=calm" href="https://github.com/nitin-1926" />
 
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" />
+<img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" />
 
 </a>
 
