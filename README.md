@@ -57,6 +57,8 @@ Operating System | Tools
 
 ## Github trophies
 
+<img src="https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
 ## Some github stats
