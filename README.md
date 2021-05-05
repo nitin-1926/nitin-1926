@@ -92,7 +92,7 @@ Operating System | Tools
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" />
 
 </a>
-<div>
+<div style={" display: flex; flex-direction: row; align-items: center; justify-content: flex-start; width: 100%;"}>
 
 ![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
 <!-- [![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926) -->
