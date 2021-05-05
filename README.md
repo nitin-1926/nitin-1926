@@ -19,10 +19,14 @@
   <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="600"/> 
 </a>
 
-![](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
+<p align=center>
+
+![Page visits](https://badges.pufler.dev/visits/nitin-1926/nitin-1926?color=black&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
 [![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%233FEB0D&title_bg=%239A0BF3&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
+</p>
 
 </div>
 
@@ -47,40 +51,6 @@ Database | Cloud
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&message=Firebase&label=&color=FF851B&labelColor=000000) ![MongoDb](https://img.shields.io/badge/-MongoDb-FFCA28?style=for-the-badge&logo=mongoDb&message=MongoDb&label=&color=339933&labelColor=000000) ![My SQL](https://img.shields.io/badge/-Sql%20Server-CC2927?style=for-the-badge&logo=MySQL&message=MySQL&label=&color=4479A1&labelColor=000000) | ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&logo=heroku&message=Heroku&label=&color=FF4F64&labelColor=000000) ![AWS](https://img.shields.io/static/v1?style=for-the-badge&logo=Amazon-AWS&message=AWS&label=&color=21B573&labelColor=000000)
 Operating System | Tools
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&message=Windows&label=&color=007ACC&labelColor=000000) ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=for-the-badge&logo=Ubuntu&message=Ubuntu&label=&color=F43900&labelColor=000000) ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=Kali-Linux&message=Kali%20Linux&label=&color=2C2255&labelColor=000000) ![Mac Os](https://img.shields.io/static/v1?style=for-the-badge&logo=MacOs&message=Mac%20Os&label=&color=7D8084&labelColor=000000) | ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=B10DC9&labelColor=000000) ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=624120&labelColor=000000)
-
-
-
-
-
-<!-- Version control | Database
-------------------|--------
-![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000) |  
-
-![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
-
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
-<br/>
-
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&logo=vue.js&message=Vue.js&label=&color=4FC08D&labelColor=000000)
-
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwind-css&message=Tailwind%20CSS&label=&color=38B2AC&labelColor=000000)
-<br/>
-![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
-![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)
-![Ant](https://img.shields.io/static/v1?style=for-the-badge&logo=apache-ant&message=Ant&label=&color=A81C7D&labelColor=000000)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000)
-<br/>
-![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&message=PowerShell&label=&color=5391FE&labelColor=000000)
-![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
-<br/>
-![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
-![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=2C2255&labelColor=000000)
-<br/>
-![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
-![GIMP](https://img.shields.io/static/v1?style=for-the-badge&logo=gimp&message=GIMP&label=&color=5C5543&labelColor=000000)
-![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
-![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
-<br/><br/>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
