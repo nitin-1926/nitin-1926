@@ -21,7 +21,7 @@
 
 <p align=center>
 
-<img src="https://badges.pufler.dev/visits/nitin-1926/nitin-1926?color=black&logo=github" />
+<img src="https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
 [![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
