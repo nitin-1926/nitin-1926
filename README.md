@@ -20,10 +20,9 @@
 </a>
 
 <p align=center>
+<!-- <img src="https://badges.pufler.dev/visits/nitin-1926/nitin-1926?color=black&logo=github" /> -->
 
-<img src="https://badges.pufler.dev/visits/nitin-1926/nitin-1926?color=black&logo=github" />
-
-[![Visits Badge](https://badges.pufler.dev/visits/nitin-1926/nitin-1926)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/nitin-1926/nitin-1926)](https://badges.pufler.dev) -->
 ![Profile views](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
 [![nitin-1926](https://img.shields.io/github/followers/nitin-1926?label=follow&style=social)](https://github.com/nitin-1926)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%233FEB0D&title_bg=%239A0BF3&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -58,7 +57,7 @@ Operating System | Tools
 
 ## Github trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=blood-dark)](https://git.io/streak-stats)
 ## Some github stats
 
