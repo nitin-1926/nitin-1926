@@ -27,6 +27,9 @@
 
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br> -->
 
+<img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+
+### Lil bit about me :wink:
 - 💡 &nbsp; I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
 - 🌱 &nbsp;I'm on track for learning more about Typescript, good coding practices and efficient ways to scale up large applications.
