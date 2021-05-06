@@ -67,11 +67,11 @@ Operating System | Tools
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-1926&layout=compact&count_private=true&&hide_border=true&theme=onedark" href="https://github.com/nitin-1926" />
 
 </a>
-<p style="width: 92%">
+<div style="width: 92%">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=radical)](https://git.io/streak-stats)
 
-</p>
+</div>
 <br>
 
 <hr></hr>
