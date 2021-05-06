@@ -1,17 +1,3 @@
-
-<!-- **nitin-1926/nitin-1926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 <div align="center" width="50">
 
 <a href="https://github.com/nitin-1926">
@@ -37,13 +23,23 @@
 
 ## Yōkoso :sparkling_heart:, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta </a> :wave:
 
-![Developing](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=FF751B&message=Developing&label=&color=FF751B&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=8F0083&message=Hacking&label=&color=8F0083&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=7EDD00&message=Anime&label=&color=7EDD00&labelColor=000000) ![Football](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=F1005B&message=Football&label=&color=F1005B&labelColor=000000)
+![Developing](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=FF751B&message=Developing&label=&color=FF751B&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=8F0083&message=Hacking&label=&color=8F0083&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=7EDD00&message=Anime&label=&color=7EDD00&labelColor=000000) ![Football](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=F1005B&message=Football&label=&color=F1005B&labelColor=000000) <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" />
 
-<!-- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at MyCelium (Rocketium) :rocket: as a Software Developer. <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" /><br>
-- <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br>
+
+💡 &nbsp; I'm a Dull Stack developer. My core is in MERN stack.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).\
+🌱 &nbsp;I'm on track for learning more about Typescript, good coding practices and efficient ways to scale up large applications.\
+✍️ &nbsp;In my free time I, watch anime, play CSGO :bomb:, watch and play football :soccer: and occasionally write blogs.\
+- 💬 &nbsp;Feel free to reach out to me for any kind of technical discussions or help. We will definitely have a :coffee: if you want to talk football!\
+- ✉️ &nbsp;You can email me at gupta7nitin@gmail.com. I'll try my best to respond as soon as possible!\
+- ⚡ &nbsp; Fun fact: Avoid reality at all costs. 
+
+<!-- ### More about me :
+- 🌱 I’m currently learning TypeScript, advance JavaScript
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ... -->
 
 
 🔭 Tech | Stack 🛠
