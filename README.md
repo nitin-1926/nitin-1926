@@ -26,17 +26,20 @@
 ![Developing](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=FF751B&message=Developing&label=&color=FF751B&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=8F0083&message=Hacking&label=&color=8F0083&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=7EDD00&message=Anime&label=&color=7EDD00&labelColor=000000) ![Football](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=F1005B&message=Football&label=&color=F1005B&labelColor=000000) <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" />
 
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br> -->
+---
+### Lil bit about me :wink:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
-### Lil bit about me :wink:
-- 💡 &nbsp; I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time.
+- 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
 - 🌱 &nbsp;I'm on track for learning more about Typescript, good coding practices and efficient ways to scale up large applications.
 - ✍️ &nbsp;In my free time I, watch anime, play CSGO :bomb:, watch and play football :soccer: and occasionally write blogs.
 - 💬 &nbsp;Feel free to reach out to me for any kind of technical discussions or help. We will definitely have a :coffee: if you want to talk football!
 - ✉️ &nbsp;You can email me at gupta7nitin@gmail.com. I'll try my best to respond as soon as possible!
 - ⚡ &nbsp; Fun fact: Avoid reality at all costs.
+
+---
 
 
 🔭 Tech | Stack 🛠
