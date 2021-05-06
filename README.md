@@ -68,7 +68,7 @@ Operating System | Tools
 
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=calm)](https://git.io/streak-stats)
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=radical" />
 
 <br>
 
