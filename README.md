@@ -29,9 +29,9 @@
 <!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/nitin-1926/nitin-1926)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/nitin-1926/nitin-1926)](https://badges.pufler.dev) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=calm)](https://git.io/streak-stats)
 
 </div>
 
