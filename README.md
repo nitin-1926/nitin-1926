@@ -73,7 +73,7 @@ Operating System | Tools
 
 <hr></hr>
 
-### Latest Blog Post 📕
+### 📕 Latest Blog Post
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
@@ -81,7 +81,7 @@ Operating System | Tools
 
 ---
 
-###  :coffee: Happy to Connect
+### Happy to Connect :coffee:
 
 
 <!-- <hr></hr>
