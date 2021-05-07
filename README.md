@@ -21,12 +21,12 @@
 
 </div>
 
+ ---
 ## Yōkoso :sparkling_heart:, I'm <a href="https://nitin-1926.github.io/" target="_blank">Nitin gupta </a> :wave:
 
 ![Developing](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=FF751B&message=Developing&label=&color=FF751B&labelColor=000000) ![Hacking](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=8F0083&message=Hacking&label=&color=8F0083&labelColor=000000) ![Anime](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=7EDD00&message=Anime&label=&color=7EDD00&labelColor=000000) ![Football](https://img.shields.io/static/v1?style=for-the-badge&logo=Southwest-Airlines&logoColor=F1005B&message=Football&label=&color=F1005B&labelColor=000000) <img width="15%" align="right" alt="Github Image" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linux.gif?raw=true" />
 
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br> -->
----
 ### Lil bit about me :wink:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
@@ -55,11 +55,11 @@ Operating System | Tools
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-## Github trophies :trophy:
+## :trophy: Github trophies
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 
-## :star: Some github stats
+## Some github stats  :star:
 
 <a href="https://github.com/nitin-1926">
 
@@ -73,13 +73,15 @@ Operating System | Tools
 
 <hr></hr>
 
-### 📕 Latest Blog Post
+### Latest Blog Post 📕
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
 <br/>
 
-### Happy to Connect :coffee:
+---
+
+###  :coffee: Happy to Connect
 
 
 <!-- <hr></hr>
