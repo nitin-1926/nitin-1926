@@ -6,7 +6,8 @@
 </a>
 
 <p align=center>
-<!-- <img src="https://badges.pufler.dev/visits/nitin-1926/nitin-1926?color=black&logo=github" /> -->
+
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
 
 
 ![My Profile views](https://komarev.com/ghpvc/?username=nitin-1926&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -14,8 +15,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnitin-1926&count_bg=%233FEB0D&title_bg=%239A0BF3&icon=riotgames.svg&icon_color=%23F7F1F1&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- [![telegram badge](https://img.shields.io/badge/Nitin-grey?style=flat&logo=telegram)](https://t.me/Nitin_077) -->
 </p>
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/nitin-1926/nitin-1926)](https://badges.pufler.dev) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitin-1926&theme=calm)](https://git.io/streak-stats)
 
@@ -29,7 +28,7 @@
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br> -->
 ### Lil bit about me :wink:
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+<img style="margin: 150px 0px 0px 15px" align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
 - 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time :stuck_out_tongue:.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
