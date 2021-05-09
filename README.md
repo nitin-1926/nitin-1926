@@ -84,13 +84,22 @@ Operating System | Tools
 
 <div>
 
+<a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/github.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/twitter.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-dot-to.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/medium.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/telegram.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/instagram.svg" width="30"></a>
+
 <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/facebook.svg" width="30"></a>
+
 </div>
 
 <!-- <hr></hr>
