@@ -1,8 +1,7 @@
 <div align="center" width="50">
 
 <a href="https://github.com/nitin-1926">
-  <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/helloCoders.gif?raw=true" alt="Hello Coders" width="700"/> <br>
-  <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="600"/> 
+  <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/helloCoders.gif?raw=true" alt="Hello Coders" width="1000"/> <br>
 </a>
 
 <p align=center>
@@ -52,7 +51,6 @@ Database | Cloud
 Operating System | Tools
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&message=Windows&label=&color=007ACC&labelColor=000000) ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=for-the-badge&logo=Ubuntu&message=Ubuntu&label=&color=F43900&labelColor=000000) ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=Kali-Linux&message=Kali%20Linux&label=&color=2C2255&labelColor=000000) ![Mac Os](https://img.shields.io/static/v1?style=for-the-badge&logo=MacOs&message=Mac%20Os&label=&color=7D8084&labelColor=000000) | ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=B10DC9&labelColor=000000) ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=624120&labelColor=000000)
 
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ## :trophy: Github trophies
 
@@ -73,6 +71,9 @@ Operating System | Tools
 <hr></hr>
 
 ### 📕 Latest Blog Post
+
+<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="100"/>
+
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
@@ -84,7 +85,7 @@ Operating System | Tools
 
 <div>
 
-<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30">
+<a href="www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a>
 
 </div>
 
