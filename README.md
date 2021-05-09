@@ -35,7 +35,7 @@
 - ✍️ &nbsp;In my free time I, watch anime, play CSGO :bomb:, watch and play football :soccer: and occasionally write blogs.
 - 💬 &nbsp;Feel free to reach out to me for any kind of technical discussions or help. We will definitely have a :coffee: if you want to talk football!
 - ✉️ &nbsp;You can email me at gupta7nitin@gmail.com. I'll try my best to respond as soon as possible :hand:!
-- ⚡ &nbsp; Fun fact: Avoid reality at all costs.
+<!-- - ⚡ &nbsp; Fun fact: Avoid reality at all costs. -->
 
 ---
 
@@ -72,12 +72,15 @@ Operating System | Tools
 
 ### 📕 Latest Blog Post
 
-<img align="right" width="250" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"/>
+<div>
+
+<img align="right" width="300" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"/>
 
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
 - [JavaScript Callbacks: Higher-order Functions!!](https://medium.com/@gupta7nitin/javascript-callbacks-higher-order-functions-51607bc20493?sk=ee0b122be1c9fec65b98d4412fd5f5f7)
-<br/>
+
+</div>
 
 ---
 
