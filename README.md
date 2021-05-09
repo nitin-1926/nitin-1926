@@ -84,7 +84,7 @@ Operating System | Tools
 
 <div>
 
-<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg?raw=true" width="700">
+<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="700">
 
 </div>
 
