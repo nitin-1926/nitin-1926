@@ -27,7 +27,7 @@
 <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently working at Rocketium :rocket: as a MERN Stack Developer. <br> -->
 ### Lil bit about me :wink:
 
-<img style="margin: 150px 0px 0px 15px" align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+<img style="margin: 200px -100px -100px 50px" align="right" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
 - 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time :stuck_out_tongue:.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
@@ -72,7 +72,7 @@ Operating System | Tools
 
 ### 📕 Latest Blog Post
 
-<img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"  width="100"/>
+<img style="margin: 200px -100px -100px 50px" align="right"  width="100" height="160" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"/>
 
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
@@ -85,7 +85,7 @@ Operating System | Tools
 
 <div>
 
-<a href="www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a>
 
 </div>
 
