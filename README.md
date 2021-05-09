@@ -27,7 +27,7 @@
 ---
 ### Lil bit about me :wink:
 
-<img align="right" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+<img align="left" height="200px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
 - 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time :stuck_out_tongue:.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
@@ -72,7 +72,7 @@ Operating System | Tools
 
 ### 📕 Latest Blog Post
 
-<img align="right"  width="200" height="140" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"/>
+<img align="right" width="250" src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-working.gif?raw=true" href="https://github.com/nitin-1926" alt="kEEp cODINg"/>
 
 - [8 Must Know JavaScript Array Methods](https://medium.com/rocketium/8-must-know-javascript-array-methods-b8c76b95fdd?source=friends_link&sk=9f44acbbf88cdc1b727cf69c966f56e1)
 - [Understanding JavaScript: Promises, Async & Await!!](https://medium.com/@gupta7nitin/understanding-javascript-promises-async-await-41f4faaa5e4b?sk=dbbe399183aab6c290b97ff5366eaff6)
