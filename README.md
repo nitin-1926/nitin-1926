@@ -84,7 +84,13 @@ Operating System | Tools
 
 <div>
 
-<a href="https://github.com/nitin-1926"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/github.svg" width="30"></a> <a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a> <a href="https://twitter.com/Nitin__7"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/twitter.svg" width="30"></a> <a href="https://dev.to/nitin1926"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-dot-to.svg" width="30"></a> <a href="https://medium.com/@gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/medium.svg" width="30"></a> <a href="https://t.me/Nitin_077"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/telegram.svg" width="30"></a> <a href="https://www.instagram.com/nitin_gupta.rm_cr7/"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/instagram.svg" width="30"></a> <a href="https://www.facebook.com/gupta7nitin/"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/facebook.svg" width="30"></a>
+<a href="https://github.com/nitin-1926"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/github.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/linkedin.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Nitin__7"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/twitter.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://dev.to/nitin1926"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dev-dot-to.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@gupta7nitin"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/medium.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://t.me/Nitin_077"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/telegram.svg" width="30"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nitin_gupta.rm_cr7/"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/instagram.svg" width="30"></a>&nbsp;&nbsp; <a href="https://www.facebook.com/gupta7nitin/"><img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/facebook.svg" width="30"></a>&nbsp;&nbsp;
 
 </div>
 
