@@ -98,8 +98,6 @@ Tools | Operating System
 </div>
 
 <!-- <hr></hr>
-
 <img src="https://github.com/nitin-1926/nitin-1926/blob/main/images/dino.gif?raw=true" />
-
 </div> -->
 
