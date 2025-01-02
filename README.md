@@ -56,7 +56,7 @@ Tools | Operating System
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nitin-1926&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 
-## Some github stats  :star:
+<!-- ## Some github stats  :star:
 
 <a href="https://github.com/nitin-1926">
 
@@ -65,7 +65,7 @@ Tools | Operating System
 
 </a>
 
-<br>
+<br> -->
 
 <hr></hr>
 
