@@ -29,14 +29,22 @@
 ### Lil bit about me :wink:
 
 <img align="left" height="200px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
-
+<!--
 - 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time :stuck_out_tongue:.
 - 🎓 &nbsp;I have studied Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
 - 🌱 &nbsp;I'm on track for learning :dizzy_face: more about Typescript, good coding practices and efficient ways to scale up large applications.
 - ✍️ &nbsp;In my free time I, watch anime, play CSGO :bomb:, watch and play football :soccer: and occasionally write blogs.
 - 💬 &nbsp;Feel free to reach out to me for any kind of technical discussions or help. We will definitely have a :coffee: if you want to talk football!
 - ✉️ &nbsp;You can email me at gupta7nitin@gmail.com. I'll try my best to respond as soon as possible :hand:!
-<!-- - ⚡ &nbsp; Fun fact: Avoid reality at all costs. -->
+-->
+
+- 💡 &nbsp;Full Stack MERN Developer | SaaS Enthusiast 👨‍💻. I love and hate JavaScript at the same time :stuck_out_tongue:.
+- 🎓 &nbsp;CSE Graduate from Chitkara University, Chandigarh (2017-2021).
+- 🌱 &nbsp;Building scalable AI-powered SaaS applications, and a touch of creative automation. Exploring Next.js, Tailwind CSS, shadcnUI and other new things in web dev.
+- 🧠 &nbsp;Currently diving into AI agents, RAG (Retrieval-Augmented Generation), and exploring how AI can supercharge productivity tools.
+- ✍️ &nbsp;Outside work, you'll find me watching anime, 🏊‍♂️, playing 🏓 and ⚽, or brainstorming my next SaaS product idea 💯.
+- 💬 &nbsp;Always open for tech discussions, mentoring sessions, or just a ☕ chat about life!
+- ✉️ &nbsp;Let’s connect: gupta7nitin@gmail.com. Most active on X.
 
 ---
 
