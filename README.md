@@ -29,14 +29,6 @@
 ### Lil bit about me :wink:
 
 <img align="left" height="200px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
-<!--
-- 💡 &nbsp;I'm a Full Stack developer. My core is in MERN stack. I love and hate JavaScript at the same time :stuck_out_tongue:.
-- 🎓 &nbsp;I have studied Computer Science and Engineering at Chitkara University, Chandigarh (2017-2021).
-- 🌱 &nbsp;I'm on track for learning :dizzy_face: more about Typescript, good coding practices and efficient ways to scale up large applications.
-- ✍️ &nbsp;In my free time I, watch anime, play CSGO :bomb:, watch and play football :soccer: and occasionally write blogs.
-- 💬 &nbsp;Feel free to reach out to me for any kind of technical discussions or help. We will definitely have a :coffee: if you want to talk football!
-- ✉️ &nbsp;You can email me at gupta7nitin@gmail.com. I'll try my best to respond as soon as possible :hand:!
--->
 
 - 💡 &nbsp;Full Stack MERN Developer | SaaS Enthusiast 👨‍💻. I love and hate JavaScript at the same time :stuck_out_tongue:.
 - 🎓 &nbsp;CSE Graduate from Chitkara University, Chandigarh (2017-2021).
